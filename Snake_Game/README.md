@@ -29,8 +29,8 @@ Make sure you have **Python 3.x** installed.
 ### Steps to Run
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/snake-game.git
-   cd snake-game
+   git clone https://github.com/SinghSyntax001/Snake_Game.git
+   cd Snake_Game
    ```
 2. Run the game:
    ```sh
